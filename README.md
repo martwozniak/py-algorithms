@@ -22,4 +22,4 @@ Testowane na:
  Lista wszystkich algorytmów, znajdujących się w określonych katalogach
 
  1. BubbleSort
- 
+ 2. SelectionSort
